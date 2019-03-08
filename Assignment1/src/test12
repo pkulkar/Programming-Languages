@@ -1,0 +1,2 @@
+main(){float x; x=3.0-(-1.0);print x;}
+
